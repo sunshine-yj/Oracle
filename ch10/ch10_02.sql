@@ -1,0 +1,1 @@
+EXEC ch10_iud_dep_proc (10, '총무기획부', 'I');
